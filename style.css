@@ -1,0 +1,9 @@
+body {
+	background: lightblue;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+iframe {
+	margin: auto;
+}
