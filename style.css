@@ -1,7 +1,17 @@
+*, html {
+	margin: 0;
+	padding: 0;
+}
 body {
 	background: silver;
 	font-family: sans-serif;
 	text-align: center;
+}
+
+header {
+	background: dodgerblue;	
+	padding: 10px;
+	height: 50px;
 }
 
 iframe {
